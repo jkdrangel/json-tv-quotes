@@ -945,7 +945,7 @@
         "type": "tv",
         "language": "eng",
         "source": "Tokyo Ghoul",
-        "quote": "Never trust anyone too much, remember the devil was once an angel.",
+        "quote": "Never trust anyone too much, remember the devil was once an angel."
         "author": "Kaneki Ken"
     },
     {
@@ -968,15 +968,14 @@
         "source": "Scarface",
         "quote": "The eyes, Chico. They never lie",
         "author": "Tony Montana"
-    },
-    {
+     {
         "type": "movie",
         "language": "eng",
         "source": "Kill Bill: Vol.1",
         "quote": "Revenge is never a straight line. It’s a forest. And like a forest, it’s easy to lose your way...to get lost...to forget where you came in.",
         "author": "Hattori Hanzo"
     },
-    {
+     {
         "type": "movie",
         "language": "eng",
         "source": "Dr. Strangelove",
@@ -1038,5 +1037,13 @@
         "source": "Supernatural",
         "quote": "Decide to be fine until the end of the week. Make yourself smile, because you’re alive and that’s your job. Then do it again the next week.",
         "author": "Frank"
+    },
+    {
+        "type": "tv",
+        "language": "eng",
+        "source": "The Big Bang Theory",
+        "quote": "Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.",
+        "author": "Sheldon"
     }
+         
 ]
